@@ -1,4 +1,4 @@
-package pl.paw1470.java8desktop;
+package pl.paw1470.passwordgeneratorapi;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
