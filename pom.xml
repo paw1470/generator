@@ -7,7 +7,7 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>passwordgeneratorapi</name>
+    <name>Password Generator API</name>
     <description>Maven project for Java 8 desktop application with Lombok and JUnit dependencies</description>
     <url>https://github.com/paw1470/passwordgeneratorapi</url>
 
